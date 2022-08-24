@@ -1,1 +1,2 @@
-# JavaProjectAlishev my project git well
+# JavaProjectAlishev git
+yes hello my frends
