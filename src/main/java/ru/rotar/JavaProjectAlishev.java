@@ -6,10 +6,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
-public class FirstRestAppApplication {
+public class JavaProjectAlishev {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FirstRestAppApplication.class, args);
+		SpringApplication.run(JavaProjectAlishev.class, args);
 	}
 @Bean
 	public ModelMapper modelMapper() {
